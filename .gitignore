@@ -1,0 +1,11 @@
+# Variáveis de ambiente (nunca subir para o Git)
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambientes virtuais
+venv/
+.venv/
